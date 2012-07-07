@@ -1,0 +1,106 @@
+<!DOCTYPE fontscolors PUBLIC
+	"-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
+	"http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+	<fontcolor name="AlternativeKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="AndKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="AnyKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ContextKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="DanglingKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="EmptyKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="EndKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ExceptKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="GrammarKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="GroupKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="IgnoredKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="InvestigatorKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LeftKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LexerKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ListKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LongestKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LookaheadKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LookbackKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="NotKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="NewKeyword" default="keyword" foreColor="blue" />
+
+	<fontcolor name="NullKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ParserKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="PrecedenceKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ProductionKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="RightKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="RootKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="SelectorKeyword" default="keyword" foreColor="blue" />
+	
+	<fontcolor name="SeparatorKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="ShortestKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="StartKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="TokenKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="TransformationKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="TreeKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="UnaryKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="Identifier" default="identifier" foreColor="blue" />
+	
+	<fontcolor name="AlternativeName" default="operator" foreColor="blue" />
+	<fontcolor name="ElementName" default="operator" foreColor="blue" />
+	<fontcolor name="Epsilon" default="operator" foreColor="blue" />
+	<fontcolor name="Char" default="character" foreColor="blue" />
+	<fontcolor name="String" default="string" foreColor="blue" />
+	<fontcolor name="Number" default="number" foreColor="blue" />
+	
+	<fontcolor name="DecChar" default="character" foreColor="006AD5" />
+	<fontcolor name="HexChar" default="character" foreColor="FF55AA" />
+	
+	<fontcolor name="LPar" default="brace" foreColor="D55000" />
+	<fontcolor name="RPar" default="brace" foreColor="D55000" />
+	
+	<fontcolor name="Assign" default="operator" foreColor="00D56A" />
+	<fontcolor name="Arrow" default="operator" foreColor="00D56A" />
+	
+	<fontcolor name="Bar" default="operator" foreColor="870000" />
+	
+	<fontcolor name="Caret" default="operator" foreColor="00D56A" />
+	<fontcolor name="Colon" default="operator" foreColor="00D56A" />
+	<fontcolor name="Comma" default="operator" foreColor="00D56A" />
+	<fontcolor name="Dot" default="operator" foreColor="00D56A" />
+	
+	<fontcolor name="Gt" default="operator" foreColor="00D56A" />
+	<fontcolor name="Minus" default="operator" foreColor="00D56A" />
+	<fontcolor name="Plus" default="operator" foreColor="00D56A" />
+	<fontcolor name="QMark" default="operator" foreColor="00D56A" />
+	
+	<fontcolor name="Semicolon" default="separator">
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="Star" default="operator" foreColor="00D56A" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="ThreeDots" default="operator" foreColor="00D56A" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="TwoDots" default="operator" foreColor="00D56A" >
+	<font style="bold"/>
+	</fontcolor>	
+	
+	<fontcolor name="Blank" default="whitespace"  />
+	<fontcolor name="LineComment" default="comment"  />
+	<fontcolor name="LongComment" default="comment" />
+	
+	<fontcolor name="CtrlZ" default="whitespace" />
+	
+	<fontcolor name="InvalidKeyword" default="error" foreColor="red" />
+	<fontcolor name="InvalidNumber" default="error" foreColor="red" />
+	<fontcolor name="InvalidNormalIdentifier" default="error" foreColor="red" />
+	<fontcolor name="InvalidRichIdentifier" default="error" foreColor="red" />
+	<fontcolor name="InvalidString" default="error" foreColor="red" />
+	<fontcolor name="InvalidHexChar" default="error" foreColor="red" />
+	<fontcolor name="InvalidDecChar" default="error" foreColor="red" />
+	<fontcolor name="InvalidAlternativeName" default="error" foreColor="red" />
+	<fontcolor name="InvalidElementName" default="error" foreColor="red" />
+	<fontcolor name="InvalidCharacter" default="error" foreColor="red" />
+	
+	<fontcolor name="EOF" default="whitespace" />
+	<fontcolor name="ERROR" default="error" />
+</fontscolors>
