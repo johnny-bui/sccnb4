@@ -26,8 +26,13 @@
 			<font style="bold"/>
 	</fontcolor>
 	
-	<fontcolor name="EndKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ExceptKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="EndKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="ExceptKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
 	
 	<fontcolor name="GrammarKeyword" default="keyword" foreColor="blue" >
 			<font style="bold"/>
@@ -52,32 +57,71 @@
 		<font style="bold"/>
 	</fontcolor>
 	
-	<fontcolor name="LongestKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="LookaheadKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="LookbackKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="NotKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="NewKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="LongestKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="LookaheadKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="LookbackKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="NotKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="NewKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
 
-	<fontcolor name="NullKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ParserKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="PrecedenceKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ProductionKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="RightKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="RootKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="SelectorKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="NullKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="ParserKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="PrecedenceKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="ProductionKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="RightKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="RootKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="SelectorKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
 	
-	<fontcolor name="SeparatorKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ShortestKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="StartKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="TokenKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="TransformationKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="TreeKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="UnaryKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="SeparatorKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="ShortestKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="StartKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="TokenKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="TransformationKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="TreeKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="UnaryKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
 	
 	<fontcolor name="Identifier" default="identifier" />
 	
-	<fontcolor name="AlternativeName" default="operator" foreColor="blue" />
-	<fontcolor name="ElementName" default="operator" foreColor="5f0000" />
+	<fontcolor name="AlternativeName" default="operator" foreColor="CC3300" />
+	<fontcolor name="ElementName" default="operator" foreColor="006600" />
+	
 	<fontcolor name="Epsilon" default="operator" foreColor="5f0000" />
 	
 	<fontcolor name="Char" default="character" foreColor="5f0000" />
