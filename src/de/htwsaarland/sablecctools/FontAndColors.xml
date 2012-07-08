@@ -2,21 +2,56 @@
 	"-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
 	"http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
-	<fontcolor name="AlternativeKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="AndKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="AnyKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ContextKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="DanglingKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="EmptyKeyword" default="keyword" foreColor="blue" />
+	<fontcolor name="AlternativeKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="AndKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="AnyKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="ContextKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="DanglingKeyword" default="keyword" foreColor="blue" >
+			<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="EmptyKeyword" default="keyword" foreColor="blue" >
+			<font style="bold"/>
+	</fontcolor>
+	
 	<fontcolor name="EndKeyword" default="keyword" foreColor="blue" />
 	<fontcolor name="ExceptKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="GrammarKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="GroupKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="IgnoredKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="InvestigatorKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="LeftKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="LexerKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="ListKeyword" default="keyword" foreColor="blue" />
+	
+	<fontcolor name="GrammarKeyword" default="keyword" foreColor="blue" >
+			<font style="bold"/>
+	</fontcolor>
+	
+	<fontcolor name="GroupKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="IgnoredKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="InvestigatorKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="LeftKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="LexerKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	<fontcolor name="ListKeyword" default="keyword" foreColor="blue" >
+		<font style="bold"/>
+	</fontcolor>
+	
 	<fontcolor name="LongestKeyword" default="keyword" foreColor="blue" />
 	<fontcolor name="LookaheadKeyword" default="keyword" foreColor="blue" />
 	<fontcolor name="LookbackKeyword" default="keyword" foreColor="blue" />
@@ -38,23 +73,29 @@
 	<fontcolor name="TransformationKeyword" default="keyword" foreColor="blue" />
 	<fontcolor name="TreeKeyword" default="keyword" foreColor="blue" />
 	<fontcolor name="UnaryKeyword" default="keyword" foreColor="blue" />
-	<fontcolor name="Identifier" default="identifier" foreColor="blue" />
+	
+	<fontcolor name="Identifier" default="identifier" />
 	
 	<fontcolor name="AlternativeName" default="operator" foreColor="blue" />
-	<fontcolor name="ElementName" default="operator" foreColor="blue" />
-	<fontcolor name="Epsilon" default="operator" foreColor="blue" />
-	<fontcolor name="Char" default="character" foreColor="blue" />
-	<fontcolor name="String" default="string" foreColor="blue" />
+	<fontcolor name="ElementName" default="operator" foreColor="5f0000" />
+	<fontcolor name="Epsilon" default="operator" foreColor="5f0000" />
+	
+	<fontcolor name="Char" default="character" foreColor="5f0000" />
+	<fontcolor name="String" default="string"  />
 	<fontcolor name="Number" default="number" foreColor="blue" />
 	
 	<fontcolor name="DecChar" default="character" foreColor="006AD5" />
 	<fontcolor name="HexChar" default="character" foreColor="FF55AA" />
 	
-	<fontcolor name="LPar" default="brace" foreColor="D55000" />
-	<fontcolor name="RPar" default="brace" foreColor="D55000" />
+	<fontcolor name="LPar" default="brace" foreColor="D55000" >
+		<font style="bold"/>
+	</fontcolor>	
+	<fontcolor name="RPar" default="brace" foreColor="D55000" >
+		<font style="bold"/>
+	</fontcolor>	
 	
-	<fontcolor name="Assign" default="operator" foreColor="00D56A" />
-	<fontcolor name="Arrow" default="operator" foreColor="00D56A" />
+	<fontcolor name="Assign" default="operator" foreColor="870000" />
+	<fontcolor name="Arrow" default="operator" foreColor="870000" />
 	
 	<fontcolor name="Bar" default="operator" foreColor="870000" />
 	
